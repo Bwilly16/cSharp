@@ -1,0 +1,14 @@
+/Users/bwilichowski/Desktop/cSharp/bin/Debug/net8.0/cSharp
+/Users/bwilichowski/Desktop/cSharp/bin/Debug/net8.0/cSharp.deps.json
+/Users/bwilichowski/Desktop/cSharp/bin/Debug/net8.0/cSharp.runtimeconfig.json
+/Users/bwilichowski/Desktop/cSharp/bin/Debug/net8.0/cSharp.dll
+/Users/bwilichowski/Desktop/cSharp/bin/Debug/net8.0/cSharp.pdb
+/Users/bwilichowski/Desktop/cSharp/obj/Debug/net8.0/cSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bwilichowski/Desktop/cSharp/obj/Debug/net8.0/cSharp.AssemblyInfoInputs.cache
+/Users/bwilichowski/Desktop/cSharp/obj/Debug/net8.0/cSharp.AssemblyInfo.cs
+/Users/bwilichowski/Desktop/cSharp/obj/Debug/net8.0/cSharp.csproj.CoreCompileInputs.cache
+/Users/bwilichowski/Desktop/cSharp/obj/Debug/net8.0/cSharp.dll
+/Users/bwilichowski/Desktop/cSharp/obj/Debug/net8.0/refint/cSharp.dll
+/Users/bwilichowski/Desktop/cSharp/obj/Debug/net8.0/cSharp.pdb
+/Users/bwilichowski/Desktop/cSharp/obj/Debug/net8.0/cSharp.genruntimeconfig.cache
+/Users/bwilichowski/Desktop/cSharp/obj/Debug/net8.0/ref/cSharp.dll
